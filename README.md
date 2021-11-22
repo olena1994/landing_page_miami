@@ -6,7 +6,7 @@ To preview:
    - [DEMO LINK](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3)
  
 To layout:
-   - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+   - [DEMO LINK](https://olena1994.github.io/landing_page_miami/)
   
 To start a project:
 make a fork from Github;
