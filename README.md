@@ -1,4 +1,16 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Miami landing page. This is page of Real Estate Company in Miami.
+
+Technologies used in project: HTML; SCSS; JavaScript;
+
+To preview:
+   - [DEMO LINK](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3)
+ 
+To layout:
+   - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+  
+To start a project:
+make a fork from Github;
+clone project;
+run termial and write 'npm install';
+write 'npm start';
+the project is running )
